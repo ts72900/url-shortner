@@ -1,0 +1,1 @@
+in hyper run mongod and in cmd run nodemon app.js
